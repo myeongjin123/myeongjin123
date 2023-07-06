@@ -2,6 +2,8 @@
 
 #### 백엔드 개발자가 되고싶은 차명진 입니다.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myeongjin123&show_icons=true&theme=radical)
+
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 ### 📚 Skills
